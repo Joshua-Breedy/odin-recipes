@@ -1,0 +1,14 @@
+html{
+    background-color: darkkhaki;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+}
+h1{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+img {
+    border-radius: 20px; /* adjust the radius value to your liking */
+  }
